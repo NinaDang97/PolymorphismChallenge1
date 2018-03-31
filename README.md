@@ -1,6 +1,7 @@
 # PolymorphismChallenge1
 ### Overview: 
-The purpose of the application is to help a fictitious company called Bills Burgers to manage
+The purpose of the application is to help a fictitious company called Bills Burgers to manage types of burgers. 
+Apply three principles of OOP Java: Inheritance, Encapsulation and Polymorphism.
 
 #### Task:
 Their process of selling hamburgers:
